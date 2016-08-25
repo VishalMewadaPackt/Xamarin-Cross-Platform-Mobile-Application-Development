@@ -1,7 +1,7 @@
 <html>
 <html>
 <body>
-<img src="https://camo.githubusercontent.com/f0e3bab7ad5bce606dd13c6a65856f3204bd40d3/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f2d2d364875505452464a37772f41414141414141414141492f4141414141414141414a342f5355617478764a793075512f73302d632d6b2d6e6f2d6e732f70686f746f2e6a7067" alt="HTML5 Icon" style="width:50px;height:50px;">
+<img src="https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/X.png" alt="Xamarin" style="width:50px;height:50px;">
 
 </body>
 </html>
