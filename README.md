@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/X.png" width="50" height="50"/>
 </p>
-# Xamarin-Cross-Platform-Mobile-Application-Development
+# Xamarin Cross Platform Mobile Application Development
 Xamarin Cross-Platform Mobile Application Development By Packt Publishing 
 
 
