@@ -1,13 +1,7 @@
 <img src="https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/X.png" width="50" height="50" align="middle" />
-<style type="text/css">
-.centerImage
-{
-text-align:center;
-display:block;
-}
-</style>
-<img src="https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/X.png" class="centerImage" alt="what image shows" height="50" width="50">
-<center><img src="https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/X.png" alt="what image shows" height="150" width="200"></center>
+<p align="center">
+  <img src="https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/X.png">
+</p>
 # Xamarin-Cross-Platform-Mobile-Application-Development
 Xamarin Cross-Platform Mobile Application Development By Packt Publishing 
 
