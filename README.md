@@ -1,10 +1,4 @@
-<html>
-<html>
-<body>
-<img src="https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/X.png" alt="Xamarin" style="width:50px;height:50px;">
-
-</body>
-</html>
+![](https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/X.png =50x50)
 # Xamarin-Cross-Platform-Mobile-Application-Development
 Xamarin Cross-Platform Mobile Application Development By Packt Publishing 
 
