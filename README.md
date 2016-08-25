@@ -1,4 +1,5 @@
-# Xamarin-Cross-Platform-Mobile-Application-Development<img src="https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/X.png" width="50" height="50" />
+<img src="https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/X.png" width="50" height="50" style="text-align:center" />
+# Xamarin-Cross-Platform-Mobile-Application-Development
 Xamarin Cross-Platform Mobile Application Development By Packt Publishing 
 
 
