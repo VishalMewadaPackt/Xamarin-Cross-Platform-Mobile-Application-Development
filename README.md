@@ -2,6 +2,7 @@
   <img src="https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/Xamarin%20Packt.png"/>
 </p>
 ![x](Xamarin Packt.png)
+![X](https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/Xamarin%20Packt.png)
 
 
 ##What You Will Learn:
