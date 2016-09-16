@@ -1,4 +1,4 @@
-![X](https://www.dropbox.com/s/o5mhehqs7ehbb0a/XamarinPackt.png?dl=0)
+![X](https://github.com/VishalMewadaPackt/Images/blob/master/XamarinPackt.png)
 
 
 ##What You Will Learn:
