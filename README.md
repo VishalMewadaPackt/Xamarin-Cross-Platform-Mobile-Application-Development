@@ -1,4 +1,4 @@
-![X](https://github.com/VishalMewadaPackt/Xamarin-Cross-Platform-Mobile-Application-Development/blob/master/Xamarin%20Packt.png)
+![X](https://drive.google.com/file/d/0B2tjfUnb2rwjMmdXX2tHNV9oR0E/preview)
 
 
 ##What You Will Learn:
