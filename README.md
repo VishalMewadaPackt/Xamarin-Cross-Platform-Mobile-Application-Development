@@ -1,4 +1,4 @@
-<iframe src="https://drive.google.com/file/d/0B2tjfUnb2rwjMmdXX2tHNV9oR0E/preview" width="640" height="480"></iframe>
+![X](https://www.dropbox.com/s/o5mhehqs7ehbb0a/XamarinPackt.png)
 
 
 ##What You Will Learn:
